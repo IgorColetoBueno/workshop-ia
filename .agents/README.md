@@ -18,3 +18,4 @@ This repository contains the AI skills and prompts created for the Alpha Softwar
 *   Document Codebase into Confluence
 *   Read Jira Ticket and Implement
 *   Convert Slack Message to Jira Ticket
+*   Code to Mermaid Diagram
