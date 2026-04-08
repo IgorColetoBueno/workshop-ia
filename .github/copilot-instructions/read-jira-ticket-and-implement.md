@@ -1,1 +1,1 @@
-../../skills/read-jira-ticket-and-implement.md
+../../.agents/skills/read-jira-ticket-and-implement.md

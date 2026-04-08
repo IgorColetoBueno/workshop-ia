@@ -1,1 +1,1 @@
-../../skills/bug-troubleshooting.md
+../../.agents/skills/bug-troubleshooting.md

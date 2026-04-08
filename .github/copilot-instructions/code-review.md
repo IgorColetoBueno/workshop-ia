@@ -1,1 +1,1 @@
-../../skills/code-review.md
+../../.agents/skills/code-review.md

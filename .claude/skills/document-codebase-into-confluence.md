@@ -1,1 +1,1 @@
-../../skills/document-codebase-into-confluence.md
+../../.agents/skills/document-codebase-into-confluence.md

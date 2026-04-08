@@ -1,1 +1,1 @@
-../../skills/convert-figma-to-screen.md
+../../.agents/skills/convert-figma-to-screen.md

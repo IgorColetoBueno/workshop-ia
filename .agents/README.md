@@ -4,7 +4,7 @@ This repository contains the AI skills and prompts created for the Alpha Softwar
 
 ## Directory Structure
 
-*   `skills/`: The master directory containing all the skill definitions.
+*   `.agents/skills/`: The master directory containing all the skill definitions.
 *   `.cursor/skills/`: Symlinks for Cursor IDE.
 *   `.claude/skills/`: Symlinks for Claude Code.
 *   `.github/copilot-instructions/`: Symlinks for GitHub Copilot.

@@ -1,1 +1,1 @@
-../../skills/convert-slack-to-jira-ticket.md
+../../.agents/skills/convert-slack-to-jira-ticket.md

@@ -1,1 +1,1 @@
-../../skills/create-jira-ticket-for-bug.md
+../../.agents/skills/create-jira-ticket-for-bug.md
