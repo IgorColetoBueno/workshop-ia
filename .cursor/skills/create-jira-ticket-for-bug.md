@@ -1,0 +1,1 @@
+../../skills/create-jira-ticket-for-bug.md

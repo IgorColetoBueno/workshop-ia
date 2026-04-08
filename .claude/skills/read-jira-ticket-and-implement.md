@@ -1,0 +1,1 @@
+../../skills/read-jira-ticket-and-implement.md
