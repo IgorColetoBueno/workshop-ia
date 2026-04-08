@@ -47,7 +47,7 @@ Pesquisei as ferramentas utilizadas na empresa e como você pode integrá-las ao
 ### 💻 IDEs e Engenharia
 
 - **Visual Studio / Visual Studio Code:** Recomendo instalar extensões de IA como **Claude Code**, **Codex**, ou as extensões nativas do GitHub Copilot.
-- **GitHub:** Recomendamos instalar o **GitHub CLI** nativo do sistema. O MCP do Github até existe, mas o CLI é muito melhor. As IAs são ótimas em usar ferramentas de linha de comando.
+- **GitHub:** Recomendamos instalar o **[GitHub CLI](https://cli.github.com/)** nativo do sistema. O MCP do Github até existe, mas o CLI é muito melhor. As IAs são ótimas em usar ferramentas de linha de comando.
 
 ### 🗄️ Bancos de Dados e APIs
 
