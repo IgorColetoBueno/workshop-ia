@@ -79,3 +79,7 @@ Se a equipe da Alpha Software tiver fluxos de revisão próprios ou regras de se
 2. **Defina as integrações:** Se a skill envolver checar o banco de dados antes do deploy, garanta que os servidores MCP necessários (como os de SQL/DBeaver) estejam rodando e disponíveis.
 3. **Configure o escopo:** Especifique, no próprio arquivo da skill, em quais situações ela deve atuar.
 4. **Acione a Skill:** Para executar seu fluxo, mencione o arquivo da skill diretamente no prompt do chat (ex: `@RevisaoDeCodigo.md`) para forçar o agente a seguir o plano definido por vocês.
+
+Algumas skills populares na web podem simplesmente instaladas:
+* .NET skills: https://github.com/wshaddix/dotnet-skills
+* React: https://vercel.com/docs/agent-resources/skills
