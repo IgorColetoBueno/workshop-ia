@@ -1,4 +1,4 @@
-Este documento é um guia completo para o time de TI da **Alpha Software** dominar o uso de Inteligência Artificial em tarefas de engenharia de software, abrangendo programação, design, gestão de projetos e troubleshooting.
+Este documento é um guia completo para o time de TI da **Alpha Software** dominar o uso de Inteligência Artificial em tarefas de engenharia de software, abrangendo programação, design, gestão de projetos e resolução de problemas.
 
 ---
 
